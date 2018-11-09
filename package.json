@@ -1,0 +1,11 @@
+{
+  "name": "now-lambda-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:akurulk/now-lambda-nodejs.git",
+  "author": "Arunoda Susiripala <arunoda.susiripala@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
